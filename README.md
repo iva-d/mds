@@ -1,1 +1,1 @@
-# mds
+# Master Data Science
